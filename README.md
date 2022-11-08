@@ -2,6 +2,12 @@
 
 just a simple cli to generate i18n json file from google sheet
 
+### How to install
+
+```
+npm i -g subekti404dev/ewording
+```
+
 ### How to use
 
 ```
